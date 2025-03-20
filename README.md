@@ -10,3 +10,6 @@ Esta es una aplicación web desarrollada con Streamlit que permite visualizar y 
 ## Cómo ejecutarlo
 1. Instalar las dependencias con `pip install -r requirements.txt`
 2. Ejecutar la app con `streamlit run app.py`
+
+
+https://proyecto-python-2.onrender.com/
